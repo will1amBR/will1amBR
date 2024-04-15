@@ -1,0 +1,2 @@
+- 👋 Hello World
+- ⚡ Fun fact: Lets code
